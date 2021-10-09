@@ -1,1 +1,9 @@
 1
+
+Une camarade differente
+
+git diff 
+
+git add .
+
+git diff --staged 
